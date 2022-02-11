@@ -1,0 +1,7 @@
+C:\Users\190478\Desktop\Matrice_EX\Matrice_EX\bin\Debug\Matrice_EX.exe.config
+C:\Users\190478\Desktop\Matrice_EX\Matrice_EX\bin\Debug\Matrice_EX.exe
+C:\Users\190478\Desktop\Matrice_EX\Matrice_EX\bin\Debug\Matrice_EX.pdb
+C:\Users\190478\Desktop\Matrice_EX\Matrice_EX\obj\Debug\Matrice_EX.csprojAssemblyReference.cache
+C:\Users\190478\Desktop\Matrice_EX\Matrice_EX\obj\Debug\Matrice_EX.csproj.CoreCompileInputs.cache
+C:\Users\190478\Desktop\Matrice_EX\Matrice_EX\obj\Debug\Matrice_EX.exe
+C:\Users\190478\Desktop\Matrice_EX\Matrice_EX\obj\Debug\Matrice_EX.pdb
